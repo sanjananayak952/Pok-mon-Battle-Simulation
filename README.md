@@ -46,9 +46,12 @@ pip install -r requirements.txt
 
 🚀 Quick Start
 # Run the development server
+
+Start the development server:
+
 uvicorn main:app --reload
 
-Access these endpoints in your browser:
+The server will be available at:
 
 1]API Docs: http://localhost:8000/docs
 
