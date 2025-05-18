@@ -57,15 +57,25 @@ Example Response:
 json
 {
   "id": 25,
+  
   "name": "pikachu",
+  
   "types": ["electric"],
+  
   "stats": {
+  
     "hp": 35,
+    
     "attack": 55,
+    
     "defense": 40,
+    
     "special_attack": 50,
+    
     "special_defense": 50,
+    
     "speed": 90
+    
   }
 }
 
