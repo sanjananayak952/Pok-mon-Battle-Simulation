@@ -1,23 +1,22 @@
 ## Pokémon Battle Simulation 
-<div align="center"> <img src="https://media.giphy.com/media/3o85xkXpyQHQxQ3VUQ/giphy.gif" alt="Pokémon Battle" width="500">
-Python Version
-FastAPI
-License
 
-</div>
+
 🌟 Features
-<div align="center"> <img src="https://i.imgur.com/JX5gk9j.png" alt="Features" width="700"> </div>
-⚡ Real-time Pokémon battles with authentic game mechanics
 
-🔍 Comprehensive Pokémon data from the official PokeAPI
+1]⚡ Real-time Pokémon battles with authentic game mechanics
 
-🤖 MCP compliant for seamless AI integration
+2]🔍 Comprehensive Pokémon data from the official PokeAPI
 
-🚀 Blazing fast performance with LRU caching
+3]🤖 MCP compliant for seamless AI integration
 
-📊 Interactive API documentation built-in
+4]🚀 Blazing fast performance with LRU caching
 
-📹 Demo Video
+5]📊 Interactive API documentation built-in
+
+📹 Screenshot
+![image](https://github.com/user-attachments/assets/a37452f8-76b0-4cb9-a9fb-7b31365460b0)
+![image](https://github.com/user-attachments/assets/78f41859-ebcd-43fd-bdb8-a3ca91746de9)
+
 
 🛠️ Installation
 
@@ -27,7 +26,7 @@ Prerequisites
 
 Step-by-Step Setup
 # 1. Clone the repository
-git clone https://github.com/yourusername/pokemon-battle-server.git
+git clone [https://github.com/sanjananayak952/Pok-mon-Battle-Simulation]
 cd pokemon-battle-server
 
 # 2. Create and activate virtual environment
@@ -44,7 +43,7 @@ uvicorn main:app --reload
 
 Access these endpoints in your browser:
 
---API Docs: http://localhost:8000/docs
+1]API Docs: http://localhost:8000/docs
 
 Example Response:
 json
@@ -67,19 +66,25 @@ curl -X POST "http://localhost:8000/battle/simulate" \
 -H "Content-Type: application/json" \
 -d '{"pokemon1":"charizard","pokemon2":"blastoise"}'
 
-📂 Project Structure
-├── POKEMON BATTLE SIMULATION/
-│ ├── pycache/
-│ ├── venv/
-│ ├── battle_simulator.py
-│ ├── main.py
-│ ├── pokemon_data.py
-│ ├── README.md
-│ ├── requirements.txt
-│ └── schemas.py
 
 
-📬 Contact
-<div align="center"> <p>Got questions or want to collaborate? Reach out!</p> <a href="mailto:your.email@example.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/> </a> <a href="https://wa.me/yourphonenumber"> <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40"/> </a> <a href="https://www.instagram.com/yourusername"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40"/> </a> <a href="https://www.linkedin.com/in/yourprofile"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/> </a> <a href="https://github.com/yourusername"> <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40"/> </a> <table> <tr> <td><strong>Name:</strong></td> <td>Your Name</td> </tr> <tr> <td><strong>Email:</strong></td> <td><a href="mailto:your.email@example.com">your.email@example.com</a></td> </tr> <tr> <td><strong>Phone:</strong></td> <td><a href="tel:+1234567890">+1 (234) 567-890</a></td> </tr> </table> </div>
 
-<div align="center"> <img src="https://media.giphy.com/media/l0HU7JIWajUQEI5Xi/giphy.gif" alt="Pokémon" width="200"> <p>Gotta catch 'em all!</p> </div>
+
+
+## 📬 Contact
+
+<div align="center" style="background:#f5f5f5;padding:20px;border-radius:10px;max-width:500px;margin:0 auto;">
+  <h3>Sanjana Nayak</h3>
+  
+  
+  <p>
+    <a href="sanajananayak952@gmail.com">📧 sanjananayak952@gmail.com</a><br>
+    <a href="8090812761">📞 8090812761</a>
+  </p>
+  
+  <p>
+    <a href="www.linkedin.com/in/sanjana-nayak-82a06025b"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"></a>
+    <a href="[https://github.com/sanjananayak952]" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/github.png" alt="GitHub"></a>
+    
+  </p>
+</div>
