@@ -14,8 +14,10 @@
 5]📊 Interactive API documentation built-in
 
 📹 Screenshot
-![Screenshot 2025-05-18 202610-min](https://github.com/user-attachments/assets/2d95da12-fc56-4c6c-a478-504c4fad687c)
-![Screenshot 2025-05-18 203018-min](https://github.com/user-attachments/assets/841809f9-48bc-4bd5-bafc-75443807e568)
+
+
+![s1](https://github.com/user-attachments/assets/3f54ca83-b358-4d9e-bf21-22530be1434e)
+![s2](https://github.com/user-attachments/assets/db59e931-73b0-4724-bb4b-540dcaadfadb)
 
 
 🛠️ Installation
