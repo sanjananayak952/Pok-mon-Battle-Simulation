@@ -53,31 +53,8 @@ uvicorn main:app --reload
 
 click the local host link generated provided in the terminal by running the file 
 
-Example Response:
-json
-{
-  "id": 25,
-  
-  "name": "pikachu",
-  
-  "types": ["electric"],
-  
-  "stats": {
-  
-    "hp": 35,
-    
-    "attack": 55,
-    
-    "defense": 40,
-    
-    "special_attack": 50,
-    
-    "special_defense": 50,
-    
-    "speed": 90
-    
-  }
-}
+
+   
 
 Simulate a Battle
 curl -X POST "http://localhost:8000/battle/simulate" \
