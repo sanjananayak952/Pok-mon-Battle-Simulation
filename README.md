@@ -51,9 +51,7 @@ Start the development server:
 
 uvicorn main:app --reload
 
-The server will be available at:
-
-1]API Docs: http://localhost:8000/docs
+click the local host link generated provided in the terminal by running the file 
 
 Example Response:
 json
