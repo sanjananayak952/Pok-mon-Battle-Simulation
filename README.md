@@ -23,6 +23,7 @@
 🛠️ Installation
 
 Prerequisites
+
 1]Python 3.11+
 
 2]pip package manager
