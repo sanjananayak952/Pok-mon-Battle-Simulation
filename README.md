@@ -15,9 +15,10 @@
 
 📹 Screenshot
 
+![Screenshot (56)](https://github.com/user-attachments/assets/5eaaacbb-92af-4109-9f8c-0bd5c264d6f3)
 
-![s1](https://github.com/user-attachments/assets/3f54ca83-b358-4d9e-bf21-22530be1434e)
-![s2](https://github.com/user-attachments/assets/db59e931-73b0-4724-bb4b-540dcaadfadb)
+![Screenshot (55)](https://github.com/user-attachments/assets/82f8538d-c75a-429e-a87c-13f28cb5bc03)
+
 
 
 🛠️ Installation
