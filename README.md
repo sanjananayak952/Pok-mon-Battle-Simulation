@@ -14,25 +14,25 @@
 5]📊 Interactive API documentation built-in
 
 📹 Screenshot
-![image](https://github.com/user-attachments/assets/a37452f8-76b0-4cb9-a9fb-7b31365460b0)
-![image](https://github.com/user-attachments/assets/78f41859-ebcd-43fd-bdb8-a3ca91746de9)
+![Screenshot 2025-05-18 202610-min](https://github.com/user-attachments/assets/2d95da12-fc56-4c6c-a478-504c4fad687c)
+![Screenshot 2025-05-18 203018-min](https://github.com/user-attachments/assets/841809f9-48bc-4bd5-bafc-75443807e568)
 
 
 🛠️ Installation
 
 Prerequisites
---Python 3.11+
---pip package manager
+1]Python 3.11+
+2]pip package manager
 
 Step-by-Step Setup
 # 1. Clone the repository
-git clone [https://github.com/sanjananayak952/Pok-mon-Battle-Simulation]
-cd pokemon-battle-server
+1]git clone [https://github.com/sanjananayak952/Pok-mon-Battle-Simulation]
+2]cd pokemon-battle-server
 
 # 2. Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate    # Windows
+1]python -m venv venv
+2]source venv/bin/activate  # Linux/Mac
+3]venv\Scripts\activate    # Windows
 
 # 3. Install dependencies
 pip install -r requirements.txt
@@ -71,20 +71,13 @@ curl -X POST "http://localhost:8000/battle/simulate" \
 
 
 
-## 📬 Contact
 
-<div align="center" style="background:#f5f5f5;padding:20px;border-radius:10px;max-width:500px;margin:0 auto;">
-  <h3>Sanjana Nayak</h3>
-  
-  
-  <p>
-    <a href="sanajananayak952@gmail.com">📧 sanjananayak952@gmail.com</a><br>
-    <a href="8090812761">📞 8090812761</a>
-  </p>
-  
-  <p>
-    <a href="www.linkedin.com/in/sanjana-nayak-82a06025b"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"></a>
-    <a href="[https://github.com/sanjananayak952]" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/github.png" alt="GitHub"></a>
-    
-  </p>
-</div>
+
+## 📇 Contact
+
+**Sanjana Nayak**  
+📞 Phone: +91-8090812761 
+📧 Email: sanjananayak952@gmail.com  
+🌐 GitHub: [github.com/Sanjana Nayak](https://github.com/sanjananayak952) 
+🔗 LinkedIn: [linkedin.com/in/Sanjana Nayak](www.linkedin.com/in/sanjana-nayak-82a06025b)
+
