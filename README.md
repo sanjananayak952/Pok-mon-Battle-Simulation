@@ -24,16 +24,20 @@
 
 Prerequisites
 1]Python 3.11+
+
 2]pip package manager
 
 Step-by-Step Setup
 # 1. Clone the repository
 1]git clone [https://github.com/sanjananayak952/Pok-mon-Battle-Simulation]
+
 2]cd pokemon-battle-server
 
 # 2. Create and activate virtual environment
 1]python -m venv venv
+
 2]source venv/bin/activate  # Linux/Mac
+
 3]venv\Scripts\activate    # Windows
 
 # 3. Install dependencies
